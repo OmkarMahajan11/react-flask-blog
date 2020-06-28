@@ -1,3 +1,5 @@
+# main server file
+
 from flask import Flask
 from flask_cors import CORS
 from flask import request, make_response, jsonify
